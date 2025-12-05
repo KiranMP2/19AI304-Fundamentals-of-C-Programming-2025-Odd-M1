@@ -34,17 +34,19 @@ int main() {
     float floatLiteral = 3.14;
     char charLiteral = 'A';
     char stringLiteral[] = "Hello C";
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
 
     printf("Integer literal: %d, Size: %lu bytes\n", intLiteral, sizeof(intLiteral));
     printf("Float literal: %f, Size: %lu bytes\n", floatLiteral, sizeof(floatLiteral));
     printf("Character literal: %c, Size: %lu bytes\n", charLiteral, sizeof(charLiteral));
     printf("String literal: %s, Size: %lu bytes\n", stringLiteral, sizeof(stringLiteral));
-
     return 0;
 }
 ```
 # Output:
-<img width="694" height="207" alt="image" src="https://github.com/user-attachments/assets/852d9d08-2f5a-469a-9d86-c01f01691ea0" />
+<img width="520" height="316" alt="image" src="https://github.com/user-attachments/assets/db37fb48-8af9-4dff-a1a6-eb4dfdddcbbc" />
+
 
 
 # Result: 
@@ -82,6 +84,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 #define PI 3.14159
 
 int main() {
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
     const int DAYS = 7;
     printf("Macro Constant PI = %f\n", PI);
     printf("Constant Variable DAYS = %d\n", DAYS);
@@ -90,8 +94,8 @@ int main() {
 
 ```
 # Output:
+<img width="400" height="287" alt="image" src="https://github.com/user-attachments/assets/dc6ff0b2-7dff-482b-afe4-d2cb99fe655d" />
 
-<img width="695" height="160" alt="image" src="https://github.com/user-attachments/assets/1290155d-43a0-477d-9da5-4f032ffadc2d" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -120,6 +124,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 #include <stdio.h>
 
 int main() {
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
     int a = 25;
     float b = 12.5f;
     double c = 456.789;
@@ -134,8 +140,8 @@ int main() {
 }
 ```
 # Output:
+<img width="409" height="339" alt="image" src="https://github.com/user-attachments/assets/a26bceff-e3b9-4a61-ace8-b9b14f16f813" />
 
-<img width="690" height="220" alt="image" src="https://github.com/user-attachments/assets/7a7d444d-0348-4b02-9db7-1b712851194d" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -182,6 +188,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 
 int main() {
     int a, b;
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
 
     printf("Enter two integers: ");
     scanf("%d %d", &a, &b);
@@ -206,8 +214,8 @@ int main() {
 }
 ```
 # Output:
+<img width="459" height="702" alt="image" src="https://github.com/user-attachments/assets/436aa367-890a-4bb4-b40c-a9fcb3cc513e" />
 
-<img width="692" height="562" alt="image" src="https://github.com/user-attachments/assets/f8d68dfa-8969-4161-a644-73ddceb7f355" />
 
 
 # Result: 
@@ -259,6 +267,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 
 int main() {
     char ch;
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
     printf("Enter a character: ");
     scanf("%c", &ch);
 
@@ -276,7 +286,8 @@ int main() {
 ```
 
 # Output:
-<img width="412" height="219" alt="Screenshot 2025-11-11 174241" src="https://github.com/user-attachments/assets/ba438b02-46dc-44cd-9997-18dde032f221" />
+<img width="441" height="452" alt="image" src="https://github.com/user-attachments/assets/80f48a1c-2c23-47bb-8552-c862625f5d32" />
+
 
 
 
